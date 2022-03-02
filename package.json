@@ -1,0 +1,14 @@
+{
+  "name": "node-geojson-seg",
+  "version": "1.0.0",
+  "description": "分割geojson文件并存储",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "izdbrave",
+  "license": "ISC",
+  "dependencies": {
+    "geojson-seg": "0.0.2"
+  }
+}
